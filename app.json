@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "TestApp-Locq1v",
+    "slug": "testapplocq1v",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "testapplocq1v",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7aeefdc7-99eb-418d-9dca-42e009f82903"
+      }
+    }
+  }
+}
